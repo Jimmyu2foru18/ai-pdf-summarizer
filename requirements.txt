@@ -1,0 +1,27 @@
+# Core dependencies
+python-dotenv>=1.0.0
+
+# PDF processing
+PyPDF2>=3.0.0
+pymupdf>=1.22.5
+
+# NLP and text processing
+nltk>=3.8.1
+spacy>=3.6.1
+
+# AI models and transformers
+transformers>=4.30.2
+torch>=2.0.1
+sentence-transformers>=2.2.2
+
+# UI and visualization
+streamlit>=1.24.0
+
+# Document generation
+python-docx>=0.8.11
+python-pptx>=0.6.21
+
+# Utilities
+tqdm>=4.65.0
+pandas>=2.0.3
+numpy>=1.24.3
