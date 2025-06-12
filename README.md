@@ -22,20 +22,14 @@ This tool is designed as a learning assistant to help students and researchers d
 ## Installation
 
 ```bash
-# Clone the repository
+# Clone repo
 git clone https://github.com/jimmyu2foru18/ai-pdf-summarizer.git
 cd ai-pdf-summarizer
 
-# Create a virtual environment
 python -m venv venv
 
-# Activate the virtual environment
-# On Windows
 venv\Scripts\activate
-# On macOS/Linux
-# source venv/bin/activate
 
-# Install dependencies
 pip install -r requirements.txt
 ```
 
@@ -66,23 +60,17 @@ Once the application is running:
 
 ```
 .
-├── app.py                  # Main application entry point
-├── requirements.txt        # Project dependencies
-├── README.md               # Project documentation
+├── app.py
+├── requirements.txt 
+├── README.md
 ├── src/
-│   ├── pdf_processor.py    # PDF extraction and processing
-│   ├── text_analyzer.py    # Chapter and topic identification
-│   ├── summarizer.py       # AI summarization logic
-│   ├── example_generator.py # Example generation logic
-│   ├── document_exporter.py # Export to Word and PowerPoint formats
-│   └── utils.py            # Utility functions
-└── models/                 # Directory for storing/caching AI models
+│   ├── pdf_processor.py
+│   ├── text_analyzer.py 
+│   ├── summarizer.py
+│   ├── example_generator.py
+│   ├── document_exporter.py
+│   └── utils.py
+└── models/
 ```
 
-## License
-
-MIT
-
-## Disclaimer
-
-This tool is intended as a learning aid and should be used responsibly. It is not designed to replace thorough study or complete academic assignments.
+---
