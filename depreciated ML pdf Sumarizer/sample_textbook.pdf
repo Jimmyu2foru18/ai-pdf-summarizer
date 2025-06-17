@@ -1,0 +1,99 @@
+%PDF-1.7
+1 0 obj
+<</Type/Catalog/Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type/Pages/Kids[3 0 R]/Count 1>>
+endobj
+3 0 obj
+<</Type/Page/Parent 2 0 R/Resources<</Font<</F1<</Type/Font/Subtype/Type1/BaseFont/Helvetica>>>>/ProcSet[/PDF/Text]>>/MediaBox[0 0 612 792]/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 2000>>
+stream
+BT
+/F1 16 Tf
+50 700 Td
+(CHAPTER 1: Introduction to Machine Learning) Tj
+0 -30 Td
+/F1 12 Tf
+(This chapter introduces the fundamental concepts of machine learning, including supervised and) Tj
+0 -20 Td
+(unsupervised learning, as well as common algorithms and their applications. Machine learning) Tj
+0 -20 Td
+(is a field of artificial intelligence that focuses on developing systems that can learn from and) Tj
+0 -20 Td
+(make decisions based on data. It has applications in various domains including healthcare,) Tj
+0 -20 Td
+(finance, and technology.) Tj
+0 -40 Td
+/F1 14 Tf
+(1.1 What is Machine Learning?) Tj
+0 -30 Td
+/F1 12 Tf
+(Machine learning is a subset of artificial intelligence that provides systems the ability to) Tj
+0 -20 Td
+(automatically learn and improve from experience without being explicitly programmed.) Tj
+0 -20 Td
+(The process of learning begins with observations or data, such as examples, direct experience,) Tj
+0 -20 Td
+(or instruction, in order to look for patterns in data and make better decisions in the future.) Tj
+0 -30 Td
+(Example 1: Email spam filtering is a classic application of machine learning. The system learns) Tj
+0 -20 Td
+(from labeled examples of spam and non-spam emails to classify new, unseen emails.) Tj
+0 -30 Td
+(Example 2: Netflix uses machine learning to recommend movies based on your viewing history) Tj
+0 -20 Td
+(and preferences, improving its suggestions over time as it learns more about your tastes.) Tj
+0 -40 Td
+/F1 14 Tf
+(1.2 Types of Machine Learning) Tj
+0 -30 Td
+/F1 12 Tf
+(There are three main types of machine learning: supervised learning, unsupervised learning,) Tj
+0 -20 Td
+(and reinforcement learning. Each type has different approaches and applications.) Tj
+0 -30 Td
+(For example, in supervised learning, algorithms are trained using labeled data. The model learns) Tj
+0 -20 Td
+(to predict outputs based on input features. Common algorithms include linear regression and) Tj
+0 -20 Td
+(support vector machines.) Tj
+0 -40 Td
+/F1 16 Tf
+(CHAPTER 2: Neural Networks) Tj
+0 -30 Td
+/F1 12 Tf
+(Neural networks are a set of algorithms, modeled loosely after the human brain, that are designed) Tj
+0 -20 Td
+(to recognize patterns. They interpret sensory data through a kind of machine perception,) Tj
+0 -20 Td
+(labeling or clustering raw input. The patterns they recognize are numerical, contained in vectors,) Tj
+0 -20 Td
+(into which all real-world data, be it images, sound, text or time series, must be translated.) Tj
+0 -40 Td
+/F1 14 Tf
+(2.1 Perceptrons and Activation Functions) Tj
+0 -30 Td
+/F1 12 Tf
+(The perceptron is the simplest neural network, consisting of a single neuron. It takes several) Tj
+0 -20 Td
+(binary inputs and produces a single binary output using a step function. Modern neural networks) Tj
+0 -20 Td
+(use more complex activation functions like ReLU and sigmoid to introduce non-linearity.) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f
+0000000010 00000 n
+0000000053 00000 n
+0000000102 00000 n
+0000000267 00000 n
+trailer
+<</Size 5/Root 1 0 R>>
+startxref
+2317
+%%EOF
